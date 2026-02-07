@@ -18,3 +18,8 @@
 | 12 | Dynamic Programming | | | | |
 | 13 | Backtracking, Branch and Bound Algorithm | | | | |
 | 14 | Final Exam | | Final Exam | Final Exam | |
+
+## Books and References
+
+- **[MAIN TEXTBOOK]** MIT Press - Introduction to Algorithms, 3rd Edition
+- Grokking Algorithms - An Illustrated Guide for Programmers and Other Curious People
