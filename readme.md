@@ -16,9 +16,9 @@
 | 7 | Sorting Problem (Insertion & Selection sorting algorithm) | | Section 14 (videos 44 to 47)<br>Section 15 (videos 48 to 50)<br>Section 16 (videos 51 to 55) | Coding | • Insertion sorting – Idea, Example, Algorithm, Time Complexity, Space Complexity<br>• Stability<br>• In place VS out-of-place<br>• Selection sorting – Idea, Example, Algorithm, Time Complexity, Space Complexity<br>• How to sort increasing or decreasing<br>• Questions |
 | 8 | Quick & Merge Sort<br>+<br>Linear Sorting (Count, Radix) self-study | | Section 17 (videos 56 to 58)<br>Section 18 | Coding | • Quick sorting – Idea, Example, Algorithm, Time Complexity, Space Complexity.<br>• Merge sorting – Idea, Example, Algorithm, Time Complexity, Space Complexity<br>• Linear Sorting<br>• Questions |
 | 9 | Midterm Exam | | Midterm Exam | Midterm Exam | |
-| 10 | Algorithm Design Techniques<br>Greedy Algorithms | | | | |
-| 11 | Graph Basics, Graph Algorithms, Graph Searching Algorithms (DFS, BFS) | | | | |
-| 12 | Dynamic Programming | | | | |
+| 10 | Algorithm Design Techniques<br>Greedy & Dynamic Algorithms | | | | • Algorithm Design Techniques: Brute Force, Recursive, Divide & conquer, Greedy, Dynamic Programming, Backtracking <br> • What is each technique? when to use each one? <br> • Examples to proof the concept: Finding Maximum in array, Fibonacci numbers <br> • Knapsack problem 0/1 & fractional <br> • How to choose the right paradigm? <br>|
+| 11 | Algorithm Design Techniques<br>Greedy & Dynamic Algorithms | | | | |
+| 12 | Graph Basics, Graph Algorithms, Graph Searching Algorithms (DFS, BFS) | | | | |
 | 13 | Backtracking, Branch and Bound Algorithm | | | | |
 | 14 | Final Exam | | Final Exam | Final Exam | |
 
