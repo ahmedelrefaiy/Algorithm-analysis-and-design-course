@@ -1,4 +1,4 @@
-# Analysis and Design of Algorithms
+<img width="450" height="140" alt="image" src="https://github.com/user-attachments/assets/7195ff26-ae03-42af-b175-a7c8fb68cfbd" /># Analysis and Design of Algorithms
 
 ## Lectures Topics
 
@@ -16,8 +16,8 @@
 | 7 | Sorting Problem (Insertion & Selection sorting algorithm) | [Lecture 7](Lectures/Lecture%207-8-%20Sorting_algorithms.pdf) | Section 14 (videos 44 to 47)<br>Section 15 (videos 48 to 50)<br>Section 16 (videos 51 to 55) | [Lab 7 & 8](Labs/Lab%207-8-sorting_algorithms%20.pdf) | • Insertion sorting – Idea, Example, Algorithm, Time Complexity, Space Complexity<br>• Stability<br>• In place VS out-of-place<br>• Selection sorting – Idea, Example, Algorithm, Time Complexity, Space Complexity<br>• How to sort increasing or decreasing<br>• Questions |
 | 8 | Quick & Merge Sort<br>+<br>Linear Sorting (Count, Radix) self-study | [Lecture 8](Lectures/Lecture%207-8-%20Sorting_algorithms.pdf) | Section 17 (videos 56 to 58)<br>Section 18 | [Lab 7 & 8](Labs/Lab%207-8-sorting_algorithms%20.pdf) | • Quick sorting – Idea, Example, Algorithm, Time Complexity, Space Complexity.<br>• Merge sorting – Idea, Example, Algorithm, Time Complexity, Space Complexity<br>• Linear Sorting<br>• Questions |
 | 9 | Midterm Exam | | Midterm Exam | Midterm Exam | |
-| 10 **(current)** | Algorithm Design Techniques<br>Greedy & Dynamic Algorithms | [Lecture 9](Lectures/Lecture%209-%20Algorithm%20design%20techniques.pdf) | | | • Algorithm Design Techniques: Brute Force, Recursive, Divide & conquer, Greedy, Dynamic Programming, Backtracking <br> • What is each technique? when to use each one? <br> • Examples to proof the concept: Finding Maximum in array, Fibonacci numbers <br> • Knapsack problem 0/1 & fractional <br> • How to choose the right paradigm? <br>|
-| 11 | Algorithm Design Techniques<br>Greedy & Dynamic Algorithms | | | | |
+| 10 | Algorithm Design Techniques<br>Greedy & Dynamic Algorithms | [Lecture 9](Lectures/Lecture%209-%20Algorithm%20design%20techniques.pdf) | | | • Algorithm Design Techniques: Brute Force, Recursive, Divide & conquer, Greedy, Dynamic Programming, Backtracking <br> • What is each technique? when to use each one? <br> • Examples to proof the concept: Finding Maximum in array, Fibonacci numbers <br> • Knapsack problem 0/1 & fractional <br> • How to choose the right paradigm? <br>|
+| 11 **(current)** | Algorithm Design Techniques<br>Greedy & Dynamic Algorithms | | | | • Dynamic Programming (Top-down & Bottom up) revision <br> • Dynamic Programming for (0/1 Knapsack problem, Rod Cutting, Longest Common Subsequence) <br> • Greedy Algorithms for (Fractional Knapsack problem revision) <br> • Greedy Algorithms for Activity Selection <br> |
 | 12 | Graph Basics, Graph Algorithms, Graph Searching Algorithms (DFS, BFS) | | | | |
 | 13 | Backtracking, Branch and Bound Algorithm | | | | |
 | 14 | Final Exam | | Final Exam | Final Exam | |
