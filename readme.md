@@ -1,5 +1,3 @@
-<img width="450" height="140" alt="image" src="https://github.com/user-attachments/assets/7195ff26-ae03-42af-b175-a7c8fb68cfbd" /># Analysis and Design of Algorithms
-
 ## Lectures Topics
 
 | Week No. | Lectures Topic | Lecture File | Videos | Labs | Topics Covered |
